@@ -2,6 +2,7 @@
 
 ## Creator/Dev
 **tubakhxn**
+<img width="2743" height="1519" alt="image" src="https://github.com/user-attachments/assets/d54944b6-a593-4d40-8435-75e2922958e0" />
 
 ## Project Overview
 This project is a Streamlit application that simulates how correlation matrices break down during financial stress events and impact portfolio drawdowns. It visualizes the effects of contagion shocks on asset correlations, eigenvalue instability, and diversification collapse, helping users understand risk concentration and portfolio vulnerability.
@@ -30,3 +31,4 @@ This project is a Streamlit application that simulates how correlation matrices 
 
 ---
 For questions or contributions, contact tubakhxn.
+
